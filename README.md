@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Software Engineer | Machine Learing Engineer</h2>
+<h2 align="left">Software Engineer | Machine Learning Engineer</h2>
 
 ###
 
